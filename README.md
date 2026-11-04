@@ -36,3 +36,9 @@ Os botões abrem o WhatsApp com uma mensagem pronta; a mensagem só é enviada q
 ## Personalização
 
 Edite os textos em `index.html`, o visual em `assets/css/style.css` e as mensagens em `assets/js/script.js`. Não há cadastro, banco de dados ou formulário que armazene informações.
+
+## Atualização com foto
+
+A foto está em `assets/img/vinicius.jpg`. O enquadramento é feito pelo CSS; a imagem original foi preservada.
+
+Para atualizar o repositório existente: extraia o ZIP, escolha Add file → Upload files e envie index.html, README.md e a pasta assets juntos. Confirme a substituição dos arquivos existentes em Commit changes. Não crie uma pasta extra no repositório.
